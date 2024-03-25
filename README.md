@@ -1,11 +1,14 @@
 <img src="/assets/NudgeIcon.png" width=10% height=10%>
 
+# このフォークについて
+このフォークは[Nudgeプロジェクト](https://github.com/macadmins/nudge)のドキュメントを日本語化し、日本国内のMacデバイスの管理者とMacデバイス利用者に最適なアップデートを実施頂くことを目的としています。
+
 # Nudge (macadmin's Slack [#nudge](https://macadmins.slack.com/archives/CDUU7DJQ2))
-Nudge is a multi-linguistic application, offering custom user deferrals, which strongly encourages macOS updates. Written in Swift and SwiftUI.
+Nudgeは、SwiftとSwiftUIで書かれている多言語対応アプリケーションで、macOSのアップデートを強く推奨し、ユーザーがアップデートタイミングをカスタムできる機能を提供しています。
 
-Nudge will only work on macOS Big Sur 11 and later and is a replacement for the original Nudge, which was written in Python 2/3. If you need to enforce macOS updates for earlier versions, it is recommended to use [nudge-python](https://github.com/macadmins/nudge-python).
+NudgeはPython 2/3で書かれたオリジナルのNudgeを置き換えるもので、macOS Big Sur 11以降でのみ動作します。それ以前のバージョンのmacOSアップデートを強制する必要がある場合は、[nudge-python](https://github.com/macadmins/nudge-python)を使うことが推奨されます。
 
-For more information about installation, deployment, and the user experience, please see the [wiki](https://github.com/macadmins/nudge/wiki).
+インストール、デプロイ、UXの詳細については、[Wiki](https://github.com/macadmins/nudge/wiki)をご覧ください。
 
 # Examples of the User Interface
 ## simpleMode
